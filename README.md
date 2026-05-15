@@ -94,6 +94,8 @@ developed and emerging economies.
 ---
 
 ## Project Structure
+
+```
 world-economic-indicators-eda/
 │
 ├── data/
@@ -112,6 +114,7 @@ world-economic-indicators-eda/
 ├── download_data.py             # Script to fetch data from World Bank API
 ├── analysis.ipynb               # Main Jupyter notebook with full analysis
 └── README.md                    # This file
+```
 ---
 
 ## How to Reproduce
