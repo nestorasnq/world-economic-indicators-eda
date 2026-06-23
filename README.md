@@ -12,8 +12,7 @@ This project examines GDP growth, inflation, unemployment, and interest rates to
 global patterns, the impact of major economic crises, and structural differences between
 developed and emerging economies.
 
-> Built as part of my transition from Financial Data Analysis into Data Science,
-> combining my Economics background with Python-based data analysis.
+> Built at the intersection of my Economics background and professional experience as a Financial Data Analyst, combining quantitative economic analysis with Python-based data tools.
 
 ---
 
@@ -135,8 +134,7 @@ jupyter notebook analysis.ipynb
 ---
 
 ## Author
-**Dimitris Nestoras** — Economics graduate transitioning into Data Science.
-Currently working as a Financial Data Analyst as of May 2026.
+**Dimitris Nestoras** — Economics graduate and Financial Data Analyst with a background in econometrics, macroeconomics, and quantitative analysis. Currently applying data skills to real-world financial datasets professionally.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/dimitris-nestoras-86643b290/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/nestorasnq)
